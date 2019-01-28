@@ -14,4 +14,4 @@ Snapchat Group Chat <br />
 GitHub Sections
 
 # Logo
-![](Logomakr_9sxFjv.png)
+<img src="https://i.imgur.com/ZebooGl.png">
