@@ -8,5 +8,6 @@ Marcus Benesch - Chief Technical Officer <br />
 Ian Love - ENTER TITLE HERE  <br />
 Mattew - ENTER TITLE HERE  <br />
 Justice Griffin - ENTER TITLE HERE  <br />
-Yusuke Yoshioka - ENTER TITLE HERE
-
+Yusuke Yoshioka - ENTER TITLE HERE 
+# Collaboration Methods
+Snapchat Group Chat
