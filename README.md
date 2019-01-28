@@ -10,5 +10,5 @@ Matthew Ross- Marketing  <br />
 Justice Griffin - Sales  <br />
 Yusuke Yoshioka - Development 
 # Collaboration Methods
-Snapchat Group Chat
+Snapchat Group Chat <br />
 GitHub Sections
