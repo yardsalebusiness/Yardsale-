@@ -1,0 +1,9 @@
+A note on cost structure
+
+This task describes the costs needed to start this project.
+
+Our job is roughly two: development and operation of Yardsale.
+
+What we need at the preparation is the cost of development and the fee for using the server. Development is not assumed because we do ourselves using our PC and smartphone. About $ 3,000 is required, referring to the server fee and GAE (cloud server service provided by Google). In addition, this fee is also a monthly operation cost.
+
+The operation cost includes advertising expenses in addition to the server usage fee. The cost of the server (about $3,000) also includes server operation and network functions. The cost is depend on number of Yardsale's users. For example, the storage cost is $ 800 for 30TB. If we have to increase this data capacity to 60TB, the storage cost will be $ 1600 and the total cost will be $3800. The cost for providing a value proposition, advertising costs, is estimated to be $ 3,000 a month based on the useing example of Facebook.
