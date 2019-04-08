@@ -1,2 +1,6 @@
+## Cost Structure
+<yusuke here>
 ## Revenue Streams
 There will be two main revenue streams. The main one will be our 3% commission we take from every sale that happens on our platform. Our second stream of revenue will likely be the money from displaying ads on our platform. We plan to embed an already developed ad broker like Google’s AdSense. With 50,000 people each making an average purchase/s of $100.00 a month on our platform in the first quarter, the projected sales volume can be determined by 50000 * 100 *.03 (3%). This revenue stream will come out to around $150,000 a month and at this steady rate through a whole quarter, quarter 1 will see $450,000.00 in channel 1 revenue (commission revenue). Our second revenue channel will be less consistent. A very basic way to find a minimum is by analyzing the payout for CPM, the money we receive for 1000 people viewing an ad filled page is around $7.00. If we have 50,000 active users per month, navigating a minimum of 3 pages per visit, we will make ((50,0000 * 3) / 1000) * 7 ($) * 3 (3 months in a quarter). The second channel (AdSense) will bring in $3,150.00 in revenue. This brings quarter 1’s total to $453,150.00.  If each quarter our sites doubles in users quarter 2 total revenue will be $906,300.00, quarter 3 $1,359,450.00, and quarter 4 $1,812,600.00.
+## Financial Plan
+<task 5 here>
